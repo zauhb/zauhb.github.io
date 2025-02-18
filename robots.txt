@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://zauhb.csgad.com/iRI/sitemap.xml.gz
